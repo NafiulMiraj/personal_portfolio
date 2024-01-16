@@ -11,6 +11,9 @@
     background: white;
 
 }
+.logo{
+    background-color: white;
+}
 
 nav{
     display: flex;
@@ -54,7 +57,7 @@ span{
 
 .detel p{
     color: orange;
-    line height: 25px;
+    line-height: 25px ;
 }
 
 .detel a{
